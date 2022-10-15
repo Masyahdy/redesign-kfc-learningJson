@@ -1,0 +1,81 @@
+.navbar {
+  background-color: rgb(255, 255, 255);
+}
+
+.navbar .nav-link {
+  color: #c4122f;
+}
+
+.navbar .nav-link:active {
+  border: 3px solid #950e24;
+  color: #950e24;
+  border-radius: 10%;
+}
+.navbar .nav-link:hover {
+  border: 3px solid #950e24;
+  color: #950e24;
+  border-radius: 10%;
+}
+
+.hero {
+  background-color: #950e24;
+  height: 500px;
+  border-radius: 0 0 5% 5%;
+}
+
+.hero img {
+  padding-top: 25px;
+}
+
+.hero .judul-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero .judul-banner {
+  color: #fff;
+  font-weight: bold;
+  text-align: left;
+}
+
+.btn {
+  color: black;
+  background-color: #fff;
+  font-weight: bold;
+}
+
+#banner .gmbr {
+  border-radius: 10%;
+}
+
+#banner .gmbr:hover {
+  cursor: pointer;
+}
+
+#banner .gmbr img {
+  border-radius: 10%;
+}
+
+#footer .container .footer-1 {
+  background-color: #a0b7ba;
+}
+
+#footer .container .footer-2 {
+  background-color: #000000;
+  color: #fff;
+}
+
+.navbar .nav-menu {
+  height: 70px;
+  background-color: #950e24;
+}
+
+.navbar .nav-menu .nav-link {
+  color: #fff;
+}
+
+.navbar .nav-menu .nav-link:hover {
+  border: 3px solid white;
+  border-radius: 10%;
+}

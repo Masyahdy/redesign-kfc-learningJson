@@ -1,0 +1,244 @@
+{
+  "menu": [
+    {
+      "kategori": "special",
+      "nama": "Wings Bucket",
+      "gambar": "1-wing.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "Snack Bucket 1 BBQ",
+      "gambar": "2-sbspicysour-1.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "Chicken Strips BBQ",
+      "gambar": "3-chicken-stripsbbq.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "9 PCS Bucket",
+      "gambar": "4-9pcbucket.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "Super Family HCC",
+      "gambar": "5-superfamilyhcc.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "Fishbento",
+      "gambar": "6-fishbento.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "Winger BBQ",
+      "gambar": "7-wingerspicy_sour.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "Winger Combo BBQ",
+      "gambar": "8-wingerspicy_sour_2.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "Snack Bucket 1",
+      "gambar": "9-barbequebento.png"
+    },
+    {
+      "kategori": "special",
+      "nama": "Snack Bucket 2",
+      "gambar": "10-blackpepperbento.png"
+    },
+    {
+      "kategori": "combo",
+      "nama": "Fish Fillet Combo",
+      "gambar": "1-fishfilletc.png"
+    },
+    {
+      "kategori": "combo",
+      "nama": "Crispy Box",
+      "gambar": "2-crispy-box.png"
+    },
+    {
+      "kategori": "combo",
+      "nama": "Colonel Yakiniku Combo",
+      "gambar": "3-colonelyakinikuc.png"
+    },
+    {
+      "kategori": "combo",
+      "nama": "Zuper Box",
+      "gambar": "4-zuper-box.png"
+    },
+    {
+      "kategori": "combo",
+      "nama": "Super Star 1",
+      "gambar": "5-superstar-1.png"
+    },
+    {
+      "kategori": "combo",
+      "nama": "Super Star 3",
+      "gambar": "6-superstar-3.png"
+    },
+    {
+      "kategori": "combo",
+      "nama": "Combo Krispy",
+      "gambar": "7-zuperkrunchc.png"
+    },
+    {
+      "kategori": "praktis",
+      "nama": "Burger",
+      "gambar": "1-burger.png"
+    },
+    {
+      "kategori": "praktis",
+      "nama": "Fish Fillet",
+      "gambar": "2-fishfillet.png"
+    },
+    {
+      "kategori": "praktis",
+      "nama": "Twisty",
+      "gambar": "3-twisty.png"
+    },
+    {
+      "kategori": "praktis",
+      "nama": "Krispy Burger",
+      "gambar": "4-krispyburger.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Ovaltine",
+      "gambar": "1-ovaltine.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Mango Float",
+      "gambar": "3-mangofloat.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Ichi Ocha",
+      "gambar": "4-ichi-ocha.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Hot Tea",
+      "gambar": "5-hot-tea.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Hot Coffee",
+      "gambar": "6-hot-coffee.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Mineral Water",
+      "gambar": "7-air-mineral_aqua.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Fanta",
+      "gambar": "8-fanta.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Hot Cappucino",
+      "gambar": "9-hot-cappucino.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Iced Lemontea",
+      "gambar": "10-iced-lemontea.png"
+    },
+    {
+      "kategori": "drinks",
+      "nama": "Yubari Float",
+      "gambar": "11-yubari-float.png"
+    },
+    {
+      "kategori": "breakfast",
+      "nama": "Pom Pom",
+      "gambar": "1-pom-pom.png"
+    },
+    {
+      "kategori": "breakfast",
+      "nama": "Scramble Egg",
+      "gambar": "2-scrambled-egg.png"
+    },
+    {
+      "kategori": "breakfast",
+      "nama": "Super Breakfast Combo",
+      "gambar": "3-super-breakfast-combo.png"
+    },
+    {
+      "kategori": "breakfast",
+      "nama": "Super Breakfast",
+      "gambar": "4-super-breakfast.png"
+    },
+    {
+      "kategori": "breakfast",
+      "nama": "Waffle Combo",
+      "gambar": "5-waffle-kombo.png"
+    },
+    {
+      "kategori": "breakfast",
+      "nama": "Chickenl Porridge",
+      "gambar": "6-chickenl-porridge.png"
+    },
+    {
+      "kategori": "breakfast",
+      "nama": "Chicken Porridge Combo",
+      "gambar": "7-chicken-porridge-combo.png"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Double Chocolate Krushers",
+      "gambar": "1-double-choco-krushers.png"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Ice Blended Cappucino",
+      "gambar": "2-ice-blended-cappucino.png"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Ice Blended Chocolate",
+      "gambar": "3-ice-blended-chocolate.png"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Espresso",
+      "gambar": "4-espresso.png"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Hot Tea",
+      "gambar": "5-hot-tea.png"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Hazelnut Coffee",
+      "gambar": "6-hazelnut-coffee.png"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Hazelnut Coffee Combo",
+      "gambar": "7-hazelnut-coffee-combo.png"
+    },
+    {
+      "kategori": "kids",
+      "nama": "Chaki Kids Meal",
+      "gambar": "1-chaki-kids-meal.png"
+    },
+    {
+      "kategori": "kids",
+      "nama": "Chaki Kids Meal 2",
+      "gambar": "2-chaki-kids-meal-2.png"
+    },
+    {
+      "kategori": "kids",
+      "nama": "Kids Sundae",
+      "gambar": "3-kids-sundae3.png"
+    }
+  ]
+}

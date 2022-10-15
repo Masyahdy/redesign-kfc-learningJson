@@ -1,0 +1,202 @@
+menu
+kategori : special
+  nama : wings bucket
+  gambar : 1-win.png
+
+kategori : special
+  nama : snack bucket 1 bbq
+  gambar : 2-sbspicysour-1.png 
+
+kategori : special
+  nama : chicken strips bbq
+  gambar : 3-chicken-stripsbbq.png
+
+kategori : special
+  nama : 9 pcs bucket
+  gambar : 4-9pcbucket.png
+
+kategori : special
+  nama : super family hcc
+  gambar :5-superfamilyhcc.png
+
+kategori : special 
+   nama : fishbento
+   gambar : 6-fishbento.png
+
+kategori : special
+   nama : winger bbq
+   gambar : 7-wingerspicy_sour.png
+
+kategori : special
+  nama : winger combo bbq
+  gambar : 8-wingerspicy_sour_2.png
+
+kategori : special
+  nama : snack bucket 1
+  gambar : 9-barbequebento.png
+
+kategori : special
+  nama : snack bucket 2
+  gambar : 10-blackpepperbento.png
+
+kategori : combo
+   nama : fish fillet combo
+   gambar : 1-fishfilletc.png
+
+kategori : combo
+   nama : crispy box
+   gambar : 2-crispy-box.png
+
+kategori : combo
+   nama : colonel yakiniku combo
+   gambar : 3-colonelyakinikuc.png
+
+kategori : combo
+   nama : zuper box
+   gambar : 4-zuper-box.png
+
+kategori : combo
+   nama : super star 1
+   gambar : 5-superstar-1.png
+
+kategori : combo
+   nama : super star 3
+   gambar : 6-superstar-3.png
+
+kategori : combo
+   nama : combo krispy
+   gambar : 7-zuperkrunchc.png
+
+
+kategori : praktis
+   nama : burger
+   gambar : 1-burger.png
+
+kategori : praktis
+   nama : fish fillet
+   gambar : 2-fishfillet.png
+
+kategori : praktis
+   nama : twisty
+   gambar : 3-twisty.png
+
+kategori : praktis
+   nama : krispy burger
+   gambar : 4-krispyburger.png
+
+
+kategori : drinks
+   nama : ovaltine
+   gambar : 1-ovaltine.png
+
+kategori : drinks
+   nama : mocha float
+   gambar : 2-mochafloat.png
+
+kategori : drinks
+   nama : mango float
+   gambar : 3-mangofloat.png
+
+kategori : drinks
+   nama : ichi ocha
+   gambar : 4-ichi-ocha.png
+
+kategori : drinks
+   nama : hot tea
+   gambar : 5-hot-tea.png
+
+kategori : drinks
+   nama : hot coffe
+   gambar : 6-hot-coffee.png
+
+kategori : drinks
+   nama : mineral water
+   gambar : 7-air-mineral_aqua
+
+kategori : drinks
+   nama : fanta
+   gambar : 8-fanta.png
+
+kategori : drinks
+   nama : hot cappucino
+   gambar : 9-hot-cappucino.png
+
+kategori : drinks
+   nama : iced lemontea
+   gambar : 10-iced-lemontea.png
+
+kategori : drinks
+   nama : yubari float
+   gambar : 11-yubari-float.png
+
+kategori : breakfast
+   nama : pom pom
+   gambar : 1-pom-pom.png
+
+kategori : breakfast
+   nama : scramble egg
+   gambar : 2-scrambled-egg
+
+kategori : breakfast
+   nama : super breakfast combo
+   gambar : 3-super-breakfast-combo.png
+
+kategori : breakfast
+   nama : super breakfast
+   gambar : 4-super-breakfast.png
+
+kategori : breakfast
+   nama : waffle combo
+   gambar : 5-waffle-kombo.png
+
+kategori : breakfast
+   nama : chickenl porridge
+   gambar : 6-chickenl-porridge.png
+
+kategori : breakfast
+   nama : chicken porridge combo
+   gambar : 7-chicken-porridge-combo.png
+
+ketegori : coffee
+   nama : double chocolate krushers
+   gambar : 1-double-choco-krushers.png
+
+ketegori : coffee
+   nama : ice blended cappucino
+   gambar : 2-ice-blended-cappucino.png
+
+ketegori : coffee
+   nama : ice blended chocolate
+   gambar : 3-ice-blended-chocolate.png
+
+ketegori : coffee
+   nama : espresso
+   gambar : 4-espresso.png
+
+ketegori : coffee
+   nama : hot tea
+   gambar : 5-hot-tea.png
+
+ketegori : coffee
+   nama : hazelnut coffee
+   gambar : 6-hazelnut-coffee.png
+
+kategori : coffee
+   nama : hazelnut coffee combo
+   gambar : 7-hazelnut-coffee-combo.png
+
+kategori : kids meal
+   nama : chaki kids meal
+   gambar : 1-chaki-kids-meal.png
+
+kategori : kids meal
+   nama : chaki kids meal 2
+   gambar : 2-chaki-kids-meal-2.png
+
+kategori : kids meal
+   nama : kids sundae
+   gambar : 3-kids-sundae3.png
+
+
+   
+
